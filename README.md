@@ -103,6 +103,6 @@ Bu proje MIT lisansı altında lisanslanmıştır. Detaylar için [LICENSE](LICE
 
 ## 👥 İletişim
 
-Proje Sahibi - [GitHub Profiliniz](https://github.com/kullaniciadi)
+Proje Sahibi - [GitHub Profiliniz](https://github.com/alperenataner)
 
-Proje Linki: [https://github.com/kullaniciadi/repo-adi](https://github.com/kullaniciadi/repo-adi) 
+Proje Linki: [https://github.com/alperenataner/Customs-Logistics-Blockchain](https://github.com/alperenataner/Custom-Logistics-Blockchain) 
